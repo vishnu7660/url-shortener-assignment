@@ -77,8 +77,7 @@ Users must be logged in to use a short URL.
 
 ### 1. Clone the project
 
-```bash
-git clone https://github.com/YOUR_USERNAME/url-shortener-assignment.git
+https://github.com/vishnu7660/url-shortener-assignment.git
 cd url-shortener-assignment
 
 
